@@ -15,7 +15,7 @@ Based on the vanilla Marlin code over at [MarlinFirmware/Marlin](https://github.
 - TMC2088 Standalone drivers (for the [official silent main board](https://www.creality3donline.com/creality-bl-touch-auto-bed-leveling-sensor-creality3d-cr-10-ender-3-creality3d-ender3-pro_p0135.html))
 
 ## Disabled Features
-- Some LCD features (`SLIM_LCD_MENUS` is enabled
+- Some LCD features (`SLIM_LCD_MENUS` is enabled)
 - "About Printer" on the LCD
 - Arc support (currently unused by all major slicers, including Cura and Simplify3D)
 - Scrolling of long text
