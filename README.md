@@ -1,6 +1,6 @@
 # Marlin 3D Printer Firmware for Ender 3
 
-This is my personal version of Marlin for the Creality Ender 3 (Pro), based of Vanilla marlin. It features support for thermal runaway protection, BL Touch (2.0), SD card and advanced pause features (like filament change with `M600`). But loses a couple of other features.
+This is my personal version of Marlin 1.1.x for the Creality Ender 3 (Pro), based of Vanilla Marlin 1.1.9 bugfix. It features support for thermal runaway protection, BL Touch (2.0), SD card and advanced pause features (like filament change with `M600`). But loses a couple of other features.
 
 The current code is made for the [silent 1.1.4 board](https://www.creality3donline.com/creality3d-new-upgrade-silent-114-mainboard-for-ender-3-pro-ender-5-customized-und-non-standard-matching_p0147.html) by Creality, with the [official BL touch kit](https://www.creality3donline.com/creality-bl-touch-auto-bed-leveling-sensor-creality3d-cr-10-ender-3-creality3d-ender3-pro_p0135.html) installed. 
 
