@@ -2,17 +2,17 @@
 
 This is my personal version of Marlin 1.1.x for the Creality Ender 3 (Pro), based of Vanilla Marlin 1.1.9 bugfix. It features support for thermal runaway protection, BL Touch (2.0), SD card and advanced pause features (like filament change with `M600`). But loses a couple of other features.
 
-The current code is made for the [silent 1.1.4 board](https://www.creality3donline.com/creality3d-new-upgrade-silent-114-mainboard-for-ender-3-pro-ender-5-customized-und-non-standard-matching_p0147.html) by Creality, with the [official BL touch kit](https://www.creality3donline.com/creality-bl-touch-auto-bed-leveling-sensor-creality3d-cr-10-ender-3-creality3d-ender3-pro_p0135.html) installed. 
+The current code is made for the [silent 1.1.4/1.1.5 board](https://www.creality3dofficial.com/products/creality-silent-mainboard-v1-1-5) by Creality, with the [official BL touch kit](https://www.creality3dofficial.com/products/creality-bl-touch) installed. 
 
 Based on the vanilla Marlin code over at [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin)
 
 ## Enabled Features
 - Thermal runaway protection
-- BL touch version 2.0 (with offsets for the [official kit](https://www.creality3donline.com/creality-bl-touch-auto-bed-leveling-sensor-creality3d-cr-10-ender-3-creality3d-ender3-pro_p0135.html))
+- BL touch version 2.0 (with offsets for the [official kit](https://www.creality3dofficial.com/products/creality-bl-touch)
 - SD Support
 - Advanced pause features, allowing for changing filament mid print
 - Slim LCD Menus
-- TMC2088 Standalone drivers (for the [official silent main board](https://www.creality3donline.com/creality-bl-touch-auto-bed-leveling-sensor-creality3d-cr-10-ender-3-creality3d-ender3-pro_p0135.html))
+- TMC2088 Standalone drivers (for the [official silent main board](https://www.creality3dofficial.com/products/creality-silent-mainboard-v1-1-5)
 
 ## Disabled Features
 - Some LCD features (`SLIM_LCD_MENUS` is enabled)
